@@ -1,0 +1,16 @@
+{
+  "name": "quakejs-asset-graph",
+  "version": "0.0.1",
+  "description": "Graph asset dependencies for the standard quakejs asset types",
+  "main": "lib/asset-graph.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/inolen/quakejs-asset-graph.git"
+  },
+  "author": "Anthony Pesch",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "quakejs-files": "0.0.1"
+  }
+}
